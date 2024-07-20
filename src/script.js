@@ -127,3 +127,45 @@
 //         console.log(`${novaArmadura} ${novaEspada}`)
 //     }
 // }
+
+
+
+
+
+// ===================================================================================================================================
+
+
+// EU USEI O SWTCH-CASE PARA APERFEIÇOAR O MEU CONHECIMENTO.
+
+
+let name = "Fernando"
+let age = 33
+let tipo = "guerreiro"
+let arma = "espada"
+
+switch (tipo, arma,name,age) {
+    case tipo,arma:
+        console.log(`O ${tipo} atacou usando a sua ${arma}`)
+        break
+    case name, age:
+        console.log(`O ${tipo} se chama ${name} de ${age} anos de idade e ele atacou com a sua ${arma}`)
+        break
+};
+
+
+
+
+
+
+// ========================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
